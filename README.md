@@ -1,6 +1,6 @@
 # Project Unit Test
 
-Neste projeto resolvi alguns problemas de lógica além de criar testes para testa para outros problemas.
+Neste projeto, fui capaz de aprimorar minhas habilidades em resolução de problemas de lógica, bem como desenvolver testes para verificar a eficiência de diferentes soluções. 
 
 # Os desafios desse projeto eram
 
