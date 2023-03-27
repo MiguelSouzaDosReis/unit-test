@@ -1,6 +1,6 @@
 # Project Unit Test
 
-Neste projeto, fui capaz de aprimorar minhas habilidades em resolução de problemas de lógica, bem como desenvolver testes para verificar a eficiência de diferentes soluções. 
+Neste projeto, fui capaz de aprimorar minhas habilidades em resolução de problemas de lógica, bem como desenvolver testes para verificar a solução, abaixo é possivel ver os desafios que o projeto pedia
 
 # Os desafios desse projeto eram
 
